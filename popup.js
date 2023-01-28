@@ -33,5 +33,5 @@ async function submitForm() {
         console.log("Error", err);
       }  
 }
-
 document.getElementById('submittext').addEventListener('click', submitForm);
+

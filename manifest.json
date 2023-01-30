@@ -1,7 +1,7 @@
 {
   "name": "Financial Risk Analyser",
-  "description": "Help you to identify Financial Risk (Liabilities and Sustainabilities) from a report.",
-  "version": "1.0.2",
+  "description": "Help you to identify Financial Risk (Liabilities and Sustainabilities) from a report using power of ChatGPT.",
+  "version": "1.0.3",
   "manifest_version": 3,
   "icons": {
     "16": "images/icon-16.png",
